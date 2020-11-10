@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**Henry-C-Lo/Henry-C-Lo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Warm greetings to you all! I'm Henry Lo! 🤟🏻
 
 [![Website](https://img.shields.io/website?label=henrylo.tech&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://henrylo.tech)
