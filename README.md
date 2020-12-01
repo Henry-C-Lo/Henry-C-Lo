@@ -13,7 +13,7 @@
 ### Connect with me:
 
 [<img align="left" alt="HenryLo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="HenryLo | email" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.12.3/gmail.svg" />] <henrylo621@gmail.com>
+<henrylo621@gmail.com>
 
 
 ### Languages and Tools:
