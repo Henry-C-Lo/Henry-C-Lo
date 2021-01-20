@@ -6,7 +6,7 @@
 ## I'm a Full Stack Developer!!
 
 - 👨🏻‍💻 I’m currently seeking job opportunities
-- 🥅 2020 Goals: learn new technologies and frameworks to gain experience in different fields within tech.
+- 🥅 2021 Goals: learn new technologies and frameworks to gain experience in different fields within tech.
 - 🏋️‍♀️ Fun fact: Kettlebell Workout is my favorite exercise
 
 
